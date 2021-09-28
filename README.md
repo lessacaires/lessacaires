@@ -1,4 +1,4 @@
-### Olá eu sou o Wyliston
+### Olá! eu sou o Wyliston.
 
 - 🔭 Hoje estou trabalhando com desenvolvimento web front-end | back-end
 - 🌱 Estudo atualmente as Tecnologias: PHP | Java | JavaScript | HTML5 | CSS3 | JQuery | Python | MySQL 
